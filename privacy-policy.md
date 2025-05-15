@@ -1,13 +1,13 @@
 # GrantLoop Privacy Policy
 
-**Effective Date:** April 4, 2025  
-**Operated by:** GrantLoop (unincorporated sole proprietor)
+**Effective Date:** May 15, 2025  
+**Operated by:** GrantLoop, Inc. (Delaware C Corporation)
 
 ---
 
 ## 1. OVERVIEW
 
-At GrantLoop (“Company,” “we,” or “us”), your privacy matters. This Privacy Policy explains how we collect, use, share, and safeguard your information when you use our services, software, applications, and website(s) (collectively, the “Services”).
+At GrantLoop, Inc. ("Company," "we," or "us"), your privacy matters. This Privacy Policy explains how we collect, use, share, and safeguard your information when you use our services, software, applications, and website(s) (collectively, the "Services").
 
 By accessing or using the Services, you agree to this Privacy Policy and our Terms of Service. If you do not agree, you must discontinue use immediately.
 
@@ -102,7 +102,7 @@ Depending on your jurisdiction, you may have the right to:
 
 To exercise these rights, email us at [privacy@grantloop.com].
 
-We may verify your identity before processing requests and reserve the right to decline requests that are unreasonably repetitive, technically infeasible, or would violate others’ rights.
+We may verify your identity before processing requests and reserve the right to decline requests that are unreasonably repetitive, technically infeasible, or would violate others' rights.
 
 ---
 
@@ -116,11 +116,11 @@ We use cookies and similar technologies to:
 
 You can control cookie behavior through your browser settings. Blocking cookies may limit functionality.
 
-We do not currently respond to “Do Not Track” signals.
+We do not currently respond to "Do Not Track" signals.
 
 ---
 
-## 9. CHILDREN’S PRIVACY
+## 9. CHILDREN'S PRIVACY
 
 Our Services are not intended for children under 13 (or under 16 in some jurisdictions). We do not knowingly collect data from children. If you believe a child has submitted data, please contact us for removal.
 
@@ -149,16 +149,10 @@ Continued use of the Services after changes take effect constitutes acceptance.
 
 For questions or concerns about this policy or your data, contact:
 
-**GrantLoop**  
+**GrantLoop, Inc.**  
 Email: [privacy@grantloop.com]  
 Location: Philadelphia, PA (or updated corporate address)
 
 ---
 
-## 13. ENTITY STATUS
-
-GrantLoop is currently operated by an unincorporated sole proprietor. This Privacy Policy remains in effect and enforceable whether the Services are offered by an individual, LLC, C-corp, or any successor entity.
-
----
-
-© 2025 GrantLoop. All rights reserved.
+© 2025 GrantLoop, Inc. All rights reserved.
