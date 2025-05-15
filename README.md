@@ -1,1 +1,0 @@
-# grantloop-legal
