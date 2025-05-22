@@ -115,16 +115,21 @@ Last Updated: May 15, 2025
 21A.2 Anonymization and Aggregation. Company may anonymize and aggregate User Content to remove identifying details and may share such anonymized data with other users of the Service, partners, or the public for the purpose of improving grant-seeking outcomes and enhancing the collective knowledge base.
 21A.3 No Ownership Over Grantor Materials. Company does not claim ownership over original grant questions or other materials produced by grant-making institutions. However, the selection, compilation, arrangement, and structure of such questions within the Service constitute proprietary works owned by Company.
 21A.4 Value Exchange. User acknowledges that the ability to access improved recommendations, application language, and grant structures is made possible by the collective contribution of User Content from multiple users. User agrees that such data reuse and aggregation are integral to the Service's value.
-22. REPRESENTATION AND WARRANTIES
+21B. MARKETING & PUBLICITY
+21B.1 Client Marks. Subject to Section 16 (Confidentiality), User grants Company a limited, non-exclusive, worldwide, royalty-free license, for the duration of the business relationship, to display User’s name, trade name, trademarks, service marks, and logos (“Marks”) on Company’s website, product interface, investor materials, pitch decks, social-media posts, and other promotional or marketing collateral solely to identify User as a customer and to illustrate typical use cases of the Service.
+21B.2 Testimonials & Case Studies. User authorizes Company to quote, paraphrase, reproduce, or otherwise use any testimonials, reviews, success metrics, or other statements voluntarily provided by User (“Testimonials”) in Company’s marketing and publicity materials. Company may edit Testimonials for length or clarity provided the substantive meaning is not altered.
+21B.3 Opt-Out. User may revoke either or both licenses in Sections 21B.1 and 21B.2 at any time by giving Company written notice. Company will cease new uses within a commercially reasonable period, though it is not required to recall or destroy previously created materials.
+21B.4 No Endorsement. Use of User’s Marks or Testimonials does not constitute an endorsement of Company’s products or services, and Company shall not state or imply otherwise.
+23. REPRESENTATION AND WARRANTIES
 22.1 User represents and warrants that: (a) User has full power and authority to enter into and perform under these Terms; (b) User's use of the Service will not infringe or misappropriate any intellectual property right of any third party; (c) User will use the Service only for lawful purposes and in accordance with these Terms; (d) All information provided by User is accurate and complete; (e) User will not engage in any activity that would constitute or encourage a criminal offense or violate any law.
-23. THIRD-PARTY SERVICES AND WEBSITES
+24. THIRD-PARTY SERVICES AND WEBSITES
 23.1 The Service may contain links to third-party websites or services that are not owned or controlled by Company.
 23.2 Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
 23.3 User further acknowledges and agrees that Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
-24. ENTIRE AGREEMENT AND CONSTRUCTION
+25. ENTIRE AGREEMENT AND CONSTRUCTION
 24.1 These Terms constitute the entire agreement between User and Company regarding the subject matter hereof and supersedes all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter.
 24.2 No modification, amendment, or waiver of any provision of these Terms shall be effective unless in writing and signed by an authorized representative of Company.
 24.3 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 24.4 The word "including" means "including without limitation."
-25. ACKNOWLEDGMENT
+26. ACKNOWLEDGMENT
 By using the Service, you acknowledge that you have read these Terms, understand them, and agree to be bound by them. You further acknowledge that these Terms represent the complete and exclusive statement of the agreement between you and Company and supersede any proposal or prior agreement, oral or written, and any other communications between you and Company relating to the subject matter of these Terms.
