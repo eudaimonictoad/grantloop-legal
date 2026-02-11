@@ -77,6 +77,4 @@ Last Updated: February 11, 2026
 For questions, concerns, or requests related to this Privacy Policy, contact:
 
 GrantLoop, Inc.
-100 E Penn Square, Suite 400
-Philadelphia, PA 19107
 Email: privacy@grantloop.com

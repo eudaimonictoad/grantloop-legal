@@ -133,8 +133,6 @@ Last Updated: February 11, 2026
 For questions about these Terms or to send notices to Company, contact:
 
 GrantLoop, Inc.
-100 E Penn Square, Suite 400
-Philadelphia, PA 19107
 Email: privacy@grantloop.com
 
 26. ACKNOWLEDGMENT
