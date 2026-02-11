@@ -24,12 +24,11 @@ Last Updated: February 11, 2026
 4.4 Company may implement technical measures to detect suspicious activity, including but not limited to browser fingerprinting, device fingerprinting, IP address monitoring, rate limiting, behavior analysis, pattern detection, and automated fraud detection.
 4.5 User consents to Company's use of cookies, web beacons, local storage, and similar technologies for monitoring compliance with these Terms.
 4.6 Company may record and store all interactions with the Service for compliance and enforcement purposes.
-4.7 User agrees not to use VPNs, proxies, anonymizing services, or similar technologies when accessing the Service unless specifically authorized in writing by Company.
+4.7 Company reserves the right to block or restrict access from IP addresses, networks, or regions that pose a security risk. User agrees not to use anonymizing services for the purpose of circumventing security measures, usage limits, or geographic restrictions imposed by Company.
 5. LIQUIDATED DAMAGES AND REMEDIES
 5.1 User acknowledges that violations of these Terms would cause Company irreparable and incalculable harm for which monetary damages alone would be inadequate.
-5.2 For any violation of Sections 2.2, 3, or 7, User agrees to pay Company liquidated damages of Two Hundred and Fifty Thousand Dollars ($250,000) per violation, plus any actual, consequential, and punitive damages proven by Company.
-5.3 User acknowledges and agrees that these liquidated damages are a reasonable and fair estimate of the harm caused by such violations and not a penalty.
-5.4 Each individual interaction, request, or instance that violates these Terms constitutes a separate and independent violation subject to separate liquidated damages.
+5.2 For any material violation of Sections 2.2, 3, or 7, User agrees to pay Company liquidated damages in an amount proportional to the harm caused, as reasonably determined, plus any actual damages proven by Company.
+5.3 User acknowledges and agrees that these liquidated damages are a reasonable estimate of the harm caused by such violations and not a penalty.
 5.5 User agrees that Company may recover all costs of enforcement, including but not limited to attorney's fees, court costs, investigation expenses, and expert witness fees, regardless of whether formal legal proceedings are initiated.
 5.6 User agrees that any legal or equitable remedies available to Company are cumulative and not exclusive.
 6. TERMINATION AND SUSPENSION
@@ -87,10 +86,10 @@ Last Updated: February 11, 2026
 15.3 User waives any requirement that Company show actual monetary damages before obtaining injunctive relief.
 15.4 The remedies described herein are not exclusive and are in addition to all other remedies available to Company at law, in equity, or otherwise.
 16. CONFIDENTIALITY
-16.1 User shall maintain strict confidentiality regarding all aspects of the Service, including but not limited to algorithms, methods, techniques, performance, capabilities, limitations, and business practices.
-16.2 User shall not disclose, publish, or disseminate any information regarding the Service to any third party without Company's prior written consent.
-16.3 This confidentiality obligation shall survive termination of this Agreement indefinitely.
-16.4 Any breach of this confidentiality provision shall constitute material breach of this Agreement, entitling Company to immediate injunctive relief and liquidated damages.
+16.1 User shall maintain confidentiality regarding Company's proprietary and trade secret information, including but not limited to non-public algorithms, system prompts, internal methodologies, pricing structures not publicly available, and non-public business strategies disclosed to User in the course of using the Service.
+16.2 This section does not restrict User from: (a) disclosing that User is a customer of the Service; (b) discussing User's general experience with the Service; (c) providing testimonials or reviews; or (d) disclosing information that is or becomes publicly available through no fault of User.
+16.3 This confidentiality obligation shall survive termination of this Agreement for a period of three (3) years.
+16.4 Any breach of this confidentiality provision shall constitute material breach of this Agreement.
 17. LEGAL COMPLIANCE AND EXPORT CONTROL
 17.1 User shall comply with all applicable laws, regulations, and ordinances in connection with its use of the Service.
 17.2 User shall comply with all applicable export control laws and shall not use the Service in violation of any export embargo, prohibition, or restriction.
@@ -130,5 +129,13 @@ Last Updated: February 11, 2026
 24.2 No modification, amendment, or waiver of any provision of these Terms shall be effective unless in writing and signed by an authorized representative of Company.
 24.3 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 24.4 The word "including" means "including without limitation."
-25. ACKNOWLEDGMENT
+25. CONTACT INFORMATION
+For questions about these Terms or to send notices to Company, contact:
+
+GrantLoop, Inc.
+100 E Penn Square, Suite 400
+Philadelphia, PA 19107
+Email: privacy@grantloop.com
+
+26. ACKNOWLEDGMENT
 By using the Service, you acknowledge that you have read these Terms, understand them, and agree to be bound by them. You further acknowledge that these Terms represent the complete and exclusive statement of the agreement between you and Company and supersede any proposal or prior agreement, oral or written, and any other communications between you and Company relating to the subject matter of these Terms.
