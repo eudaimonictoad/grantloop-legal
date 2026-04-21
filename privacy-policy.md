@@ -1,6 +1,6 @@
 GRANTLOOP PRIVACY POLICY
 Operated by: GrantLoop, Inc. (Delaware C Corporation)
-Last Updated: February 11, 2026
+Last Updated: April 21, 2026
 
 1. INTRODUCTION
 1.1 GrantLoop, Inc. ("Company," "we," "us," or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, store, and protect information when you use our AI-powered grant writing and research service (the "Service").
