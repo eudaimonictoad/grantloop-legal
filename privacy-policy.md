@@ -11,8 +11,9 @@ Last Updated: February 11, 2026
 2.1 Account Information. When you create an account, we collect your name, email address, organization name, and billing information.
 2.2 User Content. We collect the content you submit to the Service, including grant applications, questions, narratives, templates, organizational details, and related documents.
 2.3 Usage Data. We automatically collect information about how you interact with the Service, including features used, frequency of use, timestamps, and general usage patterns.
-2.4 Device and Technical Data. We collect IP address, browser type, operating system, and device identifiers to operate and secure the Service.
-2.5 Cookies and Similar Technologies. We use cookies, local storage, and similar technologies to maintain sessions, remember preferences, and analyze usage. You can control cookies through your browser settings, though disabling them may affect Service functionality.
+2.4 Session Recordings. We use session replay technology to record how users interact with the Service, including clicks, scrolls, mouse movements, and page content viewed. Text entered into form fields is masked by default. These recordings are used solely to improve usability and diagnose technical issues. You may opt out of session recording by contacting privacy@grantloop.com.
+2.5 Device and Technical Data. We collect IP address, browser type, operating system, and device identifiers to operate and secure the Service.
+2.6 Cookies and Similar Technologies. We use cookies, local storage, and similar technologies to maintain sessions, remember preferences, and analyze usage. You can control cookies through your browser settings, though disabling them may affect Service functionality.
 
 3. HOW WE USE YOUR INFORMATION
 3.1 To Provide the Service. We process your User Content to generate grant writing assistance, research results, and other outputs you request.
