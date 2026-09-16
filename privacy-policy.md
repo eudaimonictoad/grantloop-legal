@@ -1,6 +1,6 @@
 GRANTLOOP PRIVACY POLICY
 Operated by: GrantLoop, Inc. (Delaware C Corporation)
-Last Updated: April 21, 2026
+Last Updated: September 16, 2026
 
 1. INTRODUCTION
 1.1 GrantLoop, Inc. ("Company," "we," "us," or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, store, and protect information when you use our AI-powered grant writing and research service (the "Service").
@@ -11,16 +11,18 @@ Last Updated: April 21, 2026
 2.1 Account Information. When you create an account, we collect your name, email address, organization name, and billing information.
 2.2 User Content. We collect the content you submit to the Service, including grant applications, questions, narratives, templates, organizational details, and related documents.
 2.3 Usage Data. We automatically collect information about how you interact with the Service, including features used, frequency of use, timestamps, and general usage patterns.
-2.4 Session Recordings. We use session replay technology to record how users interact with the Service, including clicks, scrolls, mouse movements, and page content viewed. Text entered into form fields is masked by default. These recordings are used solely to improve usability and diagnose technical issues. You may opt out of session recording by contacting privacy@grantloop.com.
+2.4 Session Recordings. We use session replay technology to record how people use the Service, including clicks, scrolls, mouse movements, page content viewed, and text entered into the application. Password fields are always masked and are never recorded. We use these recordings to improve usability, diagnose technical issues, and understand how features are used. You may opt out of session recording by contacting privacy@grantloop.com.
 2.5 Device and Technical Data. We collect IP address, browser type, operating system, and device identifiers to operate and secure the Service.
 2.6 Cookies and Similar Technologies. We use cookies, local storage, and similar technologies to maintain sessions, remember preferences, and analyze usage. You can control cookies through your browser settings, though disabling them may affect Service functionality.
 
 3. HOW WE USE YOUR INFORMATION
 3.1 To Provide the Service. We process your User Content to generate grant writing assistance, research results, and other outputs you request.
-3.2 To Operate and Improve the Service. We use usage data and anonymized, aggregated information to maintain, troubleshoot, and improve the Service's features and performance.
+3.2 To Operate and Improve the Service. We use User Content, usage data, and your interactions with the Service to maintain, troubleshoot, secure, and improve the Service's features, performance, and AI outputs.
 3.3 Customer Support. We access account and usage information to respond to your inquiries and provide support.
 3.4 Compliance and Security. We use information to enforce our Terms of Service, detect fraud or abuse, and comply with legal obligations.
 3.5 Communications. We use your contact information to send service-related notices, updates, and, where permitted, product announcements. You may opt out of non-essential communications at any time.
+3.6 Product Research. Our personnel review User Content and the activity around it so we can understand how the Service is used in practice, find where it falls short, and decide what to build next. Reading real grant applications, chat conversations, and research sessions is how we learn what nonprofits actually need, and it is how the Service gets better. We limit this access to GrantLoop employees and contractors who need it for this purpose, and we require them to keep User Content confidential. We may keep internal notes, examples, and analysis drawn from this review, and we may apply what we learn to improve the Service for everyone who uses it.
+3.7 What We Never Do. These commitments override anything else in this Policy: (a) We never sell, rent, or trade your personal information or User Content. (b) We never disclose your identifiable User Content to other users, to funders, or to the public. (c) We never use your User Content to train machine learning or artificial intelligence models without your prior opt-in consent. (d) We never use your User Content to target advertising.
 
 4. AI INFRASTRUCTURE PROVIDERS
 4.1 The Service uses third-party artificial intelligence infrastructure providers (such as OpenAI, Anthropic, and Google) to process User Content and deliver AI-powered features. These providers act as subprocessors and receive User Content solely to generate responses on our behalf.
@@ -30,12 +32,13 @@ Last Updated: April 21, 2026
 
 5. HOW WE PROTECT YOUR DATA
 5.1 We implement commercially reasonable technical and organizational safeguards to protect your information, including encryption in transit and at rest, access controls, and regular security assessments.
-5.2 Access to User Content is limited to authorized members of your team and our team (for customer support, service operations, and understanding feature usage patterns).
-5.3 No method of transmission or storage is completely secure. While we strive to protect your information, we cannot guarantee absolute security.
+5.2 Each organization's uploaded reference materials are indexed in a separate, dedicated search index belonging to that organization. One organization's documents are never pooled with, searchable by, or retrievable by another organization.
+5.3 Access to User Content is limited to authorized members of your team and to GrantLoop personnel who need it for the purposes described in Section 3, including customer support, service operations, security, and product research. Our personnel are bound by confidentiality obligations.
+5.4 No method of transmission or storage is completely secure. While we strive to protect your information, we cannot guarantee absolute security.
 
 6. MODEL TRAINING AND YOUR DATA
 6.1 We do not train machine learning or artificial intelligence models on your User Content without your prior opt-in consent.
-6.2 We may use anonymized and aggregated data — with identifying details removed — to improve the Service and enhance grant-seeking outcomes across our user base, as described in our Terms of Service.
+6.2 We may use anonymized and aggregated data, with identifying details removed, to improve the Service and enhance grant-seeking outcomes across our user base, as described in our Terms of Service. Anything we share outside GrantLoop in this way is anonymized and aggregated first.
 6.3 If we ever offer an option for users to opt in to model training, participation will be entirely voluntary and clearly disclosed.
 
 7. DATA RETENTION
